@@ -10,5 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         int iii=99;
+        int iii=9;
+        boolean bool = true;
     }
 }
